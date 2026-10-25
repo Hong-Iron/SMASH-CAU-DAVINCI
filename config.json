@@ -20,5 +20,64 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "805관(공연영상관1관)": {
+      "style": "ribbon",
+      "wall": "#cfc9bd",
+      "glass": "#2e3236",
+      "frame": "#8e8a82"
+    },
+    "907관(수림체육관)": {
+      "style": "brick",
+      "wall": "#8a4535",
+      "glass": "#3a4248",
+      "frame": "#d8d6d0"
+    },
+    "902관(중앙도서관)": {
+      "style": "concrete",
+      "wall": "#c7c3b5",
+      "glass": "#2f3a3f",
+      "frame": "#c9d0b0"
+    },
+    "608관(한국음악관)": {
+      "style": "brick",
+      "wall": "#7e5a52",
+      "glass": "#333436",
+      "frame": "#d9d5cd"
+    },
+    "조형관": {
+      "style": "ribbon",
+      "wall": "#ede4d0",
+      "glass": "#4a6e8a",
+      "frame": "#e8c21e"
+    },
+    "예지3동": {
+      "style": "dorm",
+      "wall": "#b5aa98",
+      "glass": "#3e4146",
+      "frame": "#8a857a",
+      "hip": true,
+      "roof": "#7a3e30"
+    },
+    "원형관": {
+      "style": "ribbon",
+      "wall": "#eef0ea",
+      "glass": "#405866",
+      "frame": "#3a7bc8"
+    },
+    "908관(체육관)": {
+      "style": "brick",
+      "wall": "#6e4a46",
+      "glass": "#3a4246",
+      "frame": "#e3e1dc"
+    },
+    "606관(제2음악관)": {
+      "style": "stone",
+      "wall": "#eceeec",
+      "glass": "#3a3f44",
+      "frame": "#cfd2d0"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
